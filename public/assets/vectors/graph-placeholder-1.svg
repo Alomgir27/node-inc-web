@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0) -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 572 160" style="enable-background:new 0 0 572 160;" xml:space="preserve">
+	<style type="text/css">
+		.st0{fill:#FFFFFF;filter:url(#Adobe_OpacityMaskFilter);}
+		.st1{mask:url(#mask0_1707_2100_00000049187712791491113770000002816273151613196933_);}
+		.st2{opacity:0.15;fill:url(#SVGID_1_);enable-background:new    ;}
+		.st3{fill:none;stroke:#1E55A9;stroke-width:2;}
+	</style>
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="-613.3" y="-12.5" width="1247.9" height="173.9">
+			<feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0" />
+		</filter>
+	</defs>
+	<mask maskUnits="userSpaceOnUse" x="-613.3" y="-12.5" width="1247.9" height="173.9" id="mask0_1707_2100_00000049187712791491113770000002816273151613196933_">
+		<path class="st0" d="M0-84.6H572v244.2H0V-84.6z" />
+	</mask>
+	<g class="st1">
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="10.3846" y1="251.706" x2="10.3846" y2="-85.479" gradientTransform="matrix(1 0 0 -1 0 76)">
+			<stop offset="0" style="stop-color:#0C8C94" />
+			<stop offset="1" style="stop-color:#FFFFFF" />
+		</linearGradient>
+		<path class="st2" d="M634,53.6c0,0-35.2,25.3-53.9,15.1c-18.8-10.2-24.5-42.7-75.8-42.7c-51.3,0-121.3,64.1-161.4,64.1
+		S261,28.4,201.2,59c-59.8,30.6-48.7,50.4-96.1,50.4C57.6,109.4,16.3-12-37.6-11.5c-40.2,0-55.6,115.3-69,133.2
+		c-13.4,17.9-50.8-31.7-116.9-31.7c-58.3,0-113.7-95.4-170.3-95.4S-473.4,95.8-523.7,95.8S-573.2,59-613.1,59
+		c-0.3,63.3,0,102.5,0,102.5H634V53.6z" />
+		<path class="st3" d="M634,53.4c0,0-35.2,25.2-53.9,15.1c-18.8-10.2-24.5-42.7-75.8-42.7s-121.3,64-161.4,64s-81.9-61.5-141.7-31
+		c-59.8,30.6-48.7,50.3-96.2,50.3C57.5,109.2,16.2-12-37.7-11.5c-40.2,0-55.6,115.1-69,132.9c-13.4,17.9-50.8-31.6-116.9-31.6
+		c-58.4,0-113.7-95.3-170.3-95.3c-56.7,0-79.7,101-129.9,101s-49.5-36.7-89.5-36.7" />
+	</g>
+</svg>

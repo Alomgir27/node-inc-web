@@ -1,0 +1,301 @@
+.block-events.e-schedule .template-wrap {
+  width: 100%;
+}
+
+.block-events.e-schedule .e-vertical-view .e-resource-cells {
+  /* height: 58px; */
+}
+
+.block-events.e-schedule .e-timeline-view .e-resource-left-td,
+.block-events.e-schedule .e-timeline-month-view .e-resource-left-td {
+  width: 170px;
+}
+
+.block-events.e-schedule .e-resource-cells.e-child-node .employee-category,
+.block-events.e-schedule .e-resource-cells.e-child-node .employee-name {
+  padding: 5px;
+  transform: translateY(5px);
+}
+
+.block-events.e-schedule .employee-image {
+  width: 45px;
+  height: 40px;
+  float: left;
+  border-radius: 6px;
+  margin-right: 10px;
+  background-repeat: no-repeat;
+  background-size: 45px;
+}
+
+.block-events.e-schedule .employee-name {
+  font-size: 12px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: normal;
+  font-family: "manrope", sans-serif;
+  font-weight: 700;
+}
+
+.block-events.e-schedule .employee-designation {
+  font-size: 10px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: normal;
+}
+
+.block-events.e-schedule .template-wrap .employee-image.alice {
+  background-image: url("https://ej2.syncfusion.com/react/demos/src/schedule/images/alice.png");
+}
+
+.block-events.e-schedule .template-wrap .employee-image.robert {
+  background-image: url("https://ej2.syncfusion.com/react/demos/src/schedule/images/robert.png");
+}
+
+.block-events.e-schedule .template-wrap .employee-image.robson {
+  background-image: url("https://ej2.syncfusion.com/react/demos/src/schedule/images/robson.png");
+}
+
+.block-events.e-schedule .template-wrap .employee-image.laura {
+  background-image: url("https://ej2.syncfusion.com/react/demos/src/schedule/images/laura.png");
+}
+
+.block-events.e-schedule .template-wrap .employee-image.nancy {
+  background-image: url("https://ej2.syncfusion.com/react/demos/src/schedule/images/nancy.png");
+}
+
+.block-events.e-schedule .template-wrap .employee-image.margaret {
+  background-image: url("https://ej2.syncfusion.com/react/demos/src/schedule/images/margaret.png");
+}
+
+.block-events.e-schedule .template-wrap .employee-image.stephan {
+  background-image: url("./client-img-1.png");
+}
+
+.block-events.e-schedule .template-wrap .employee-image.lydia {
+  background-image: url("./client-img-2.png");
+}
+
+.block-events.e-schedule .template-wrap .employee-image.damien {
+  background-image: url("./client-img-3.png");
+}
+
+.block-events.e-schedule .template-wrap .employee-image.samuel {
+  background-image: url("./client-img-4.png");
+}
+
+.block-events.e-schedule .template-wrap .employee-image.kevin {
+  background-image: url("./client-img-5.png");
+}
+
+.block-events.e-schedule .template-wrap .employee-image.jade {
+  background-image: url("./client-img-6.png");
+}
+
+.e-toolbar-items .e-tbar-pos,
+.e-schedule .e-schedule-toolbar,
+.e-header-cells {
+  display: none !important;
+}
+
+.e-schedule .e-timeline-view .e-alternate-cells {
+  border-left: none;
+}
+
+.e-schedule .e-timeline-view .e-work-cells,
+.e-schedule .e-timeline-month-view .e-work-cells {
+  border-color: rgba(159, 168, 144, 0.04);
+  border-bottom-color: transparent;
+}
+
+.e-schedule .e-timeline-view .e-resource-cells,
+.e-schedule .e-timeline-month-view .e-resource-cells {
+  border-color: transparent;
+}
+
+.e-schedule .e-timeline-view .e-date-header-wrap table td,
+.e-schedule .e-timeline-month-view .e-date-header-wrap table td {
+  border-color: transparent;
+}
+
+.e-schedule .e-timeline-view .e-resource-left-td,
+.e-schedule .e-timeline-month-view .e-resource-left-td {
+  border-color: transparent;
+}
+
+.e-schedule .e-timeline-view .e-date-header-wrap table col,
+.e-schedule .e-timeline-view .e-content-wrap table col {
+  width: 44px;
+}
+
+.e-schedule .e-timeline-view .e-time-cells-wrap table td,
+.e-schedule .e-timeline-view .e-work-cells {
+  /* height: 22px; */
+}
+
+.e-schedule .e-timeline-view .e-work-cells,
+.e-schedule .e-timeline-view .e-date-header-wrap table col {
+  width: 44px;
+}
+
+.schedule-container * {
+  border-color: transparent;
+}
+
+.block-events .e-block-appointment {
+  height: 48px !important;
+  transform: translateY(8px);
+}
+
+.block-events .e-block-appointment > div {
+  height: 100%;
+  background-color: #fff;
+}
+
+.block-events .e-block-appointment > .schedular-template-event {
+  height: 100%;
+}
+
+.schedular-template-event {
+  position: relative;
+  border-radius: 6px;
+  padding-top: 4px;
+}
+
+.schedular-template-event .tick {
+  position: absolute;
+  top: 10px;
+  right: 8px;
+}
+
+.schedular-template-event .subject,
+.schedular-template-event .client-name {
+  font-family: "roboto", sans-serif;
+  padding: 0 5px;
+  margin-right: 24px !important;
+}
+
+.schedular-template-event .subject {
+  font-weight: 500;
+  font-size: 10px;
+}
+
+.schedular-template-event .client-name {
+  font-weight: 400;
+  font-size: 14px;
+  margin: 5px 0;
+}
+
+.schedular-template-event .progress {
+  height: 4px;
+}
+
+.schedular-template-event .progress-bar {
+  height: 4px;
+}
+
+.schedular-template-event .progress {
+  background-color: rgba(62, 66, 68, 0.2);
+}
+
+.schedular-template-event.progress .tick path {
+  fill: #4acbd3;
+}
+
+.schedular-template-event.progress {
+  background-color: rgba(154, 142, 98, 0.04);
+}
+
+.schedular-template-event.progress .subject {
+  color: #4acbd3;
+}
+
+.schedular-template-event.progress .progress-bar {
+  background-color: #4acbd3;
+}
+
+.schedular-template-event.next .tick path {
+  fill: #eca0a0;
+}
+
+.schedular-template-event.next {
+  background-color: rgba(158, 111, 116, 0.04);
+}
+
+.schedular-template-event.next .subject {
+  color: #eca0a0;
+}
+
+.schedular-template-event.next .progress-bar {
+  background-color: #eca0a0;
+}
+
+.schedular-template-event.done .tick path {
+  fill: #1e55a9;
+}
+
+.schedular-template-event.done {
+  background-color: rgba(159, 168, 144, 0.04);
+}
+
+.schedular-template-event.done .subject {
+  color: #1e55a9;
+}
+
+.schedular-template-event.done .progress-bar {
+  background-color: #1e55a9;
+}
+
+.e-content-wrap::-webkit-scrollbar {
+  height: 2px;
+}
+
+.e-content-wrap::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.e-content-wrap::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+.e-content-wrap::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.e-control.e-schedule {
+  background-color: transparent;
+}
+
+.e-schedule .e-timeline-view .e-child-node,
+.e-schedule .e-timeline-month-view .e-child-node,
+.e-schedule .e-timeline-view .e-date-header-wrap table td,
+.e-schedule .e-timeline-month-view .e-date-header-wrap table td,
+.e-schedule .e-timeline-view .e-work-hours,
+.e-schedule .e-timeline-view .e-work-cells,
+.e-schedule .e-timeline-month-view .e-work-cells,
+.e-schedule .e-timeline-view .e-resource-left-td,
+.e-schedule .e-timeline-month-view .e-resource-left-td {
+  background-color: transparent;
+}
+
+.e-schedule-table {
+  padding-bottom: 2rem;
+}
+
+.e-content-wrap::-webkit-scrollbar {
+  width: 2px;
+}
+
+/* Track */
+.e-content-wrap::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+.e-content-wrap::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+.e-content-wrap::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
